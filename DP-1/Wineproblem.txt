@@ -1,0 +1,1 @@
+Given an array representing the price of wines. With each year the price of wine becomes y times y=no. of years, initially y==1. Wecan only sell the left ost or right most bottle. Find the maximum profit possible
