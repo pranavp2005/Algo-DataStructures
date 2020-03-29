@@ -1,7 +1,7 @@
 #include <iostream>
 #include<bits/stdc++.h>
 using namespace std;
-int price[10];
+int price[20];
 
 int profit(int start,int end,int year){
     
