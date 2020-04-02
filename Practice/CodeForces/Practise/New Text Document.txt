@@ -1,0 +1,29 @@
+#include <bits/stdc++.h>    
+//#include <ext/pb_ds/assoc_container.hpp> 
+//#include <ext/pb_ds/tree_policy.hpp>
+using namespace std;
+//#pragma GCC optimize("Ofast,no-stack-protector,unroll-loops,fast-math,O3")
+//#pragma GCC target("sse,sse2,sse3,ssse3,sse4,popcnt,abm,mmx,avx,tune=native")
+//using namespace __gnu_pbds; 
+#define fastio() ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0)
+#define pb  push_back
+#define show(x) cout<<(#x)<<" : "<<x<<endl;
+#define ll  long long
+#define ld  long double
+#define fill(a,val) memset(a,val,sizeof(a))
+#define mp  make_pair
+#define ff  first
+#define ss  second
+#define pii pair<ll,ll>
+#define sq(x) ((x)*(x))
+#define all(v) v.begin(),v.end()
+#define rall(v) v.rbegin(),v.rend()
+#define endl "\n"
+#define int long long 
+#define printclock cerr<<"Time : "<<1000*(ld)clock()/(ld)CLOCKS_PER_SEC<<"ms\n";
+const ll MOD     = 1000*1000*1000+7;
+const ll INF     = 1ll*1000*1000*1000*1000*1000*1000 + 7;
+const ll MOD2    = 998244353;
+const ll N       = 2005;
+const ll N2      = 70;
+const ld PI  = 3.141592653589793;
