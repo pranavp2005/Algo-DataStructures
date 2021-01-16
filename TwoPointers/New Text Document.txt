@@ -1,5 +1,0 @@
-Two Pointers approach can be very helpful, especially in questions involving pairs of numbers.
-
-Here are the various basic problems we will discuss,their brute force solution and the the two pointer solution.
-
-Have fun!
