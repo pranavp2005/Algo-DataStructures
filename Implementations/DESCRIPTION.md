@@ -1,0 +1,1 @@
+This folder contains implementations of datastructures and algorithms which I find interesting.
